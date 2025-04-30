@@ -1,4 +1,3 @@
-
 proc addkar {a b len result_list} {
     set sum_list {}
     set carry 0

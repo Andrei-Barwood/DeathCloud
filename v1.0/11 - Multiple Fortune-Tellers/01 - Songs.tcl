@@ -1,3 +1,9 @@
+source "01 - Songs.tcl"
+source "02 - Dark Song.tcl"
+source "03 - Internal Mirror.tcl"
+source "04 - Black Wings.tcl"
+source "05 - Infinity Upward.tcl"
+
 proc kmul {aptr_l bptr_l len_a len_b p_l} {
     global CLINTMAXSHORT MUL_THRESHOLD
 
